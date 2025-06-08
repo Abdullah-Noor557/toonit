@@ -66,7 +66,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 #### 7. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-**[Your Contact Email Address]**
+**abdurrehmannoor395@gmail.com**
 
 ---
-**Disclaimer:** This Privacy Policy is a template and is not a substitute for legal advice. You should consult with a legal professional to ensure that your privacy policy is compliant with all applicable laws and regulations for your target audience and jurisdictions.
