@@ -57,7 +57,7 @@ We may disclose your information if required to do so by law or in the good fait
 
 #### 5. Children's Privacy
 
-Our service is not intended for use by children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personally identifiable information from children. If we become aware that a child has provided us with personal information, we will take steps to delete such information.
+Our service is not intended for use by children under the age of 13 . We do not knowingly collect personally identifiable information from children. If we become aware that a child has provided us with personal information, we will take steps to delete such information.
 
 #### 6. Changes to This Privacy Policy
 
