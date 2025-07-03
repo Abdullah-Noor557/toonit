@@ -53,7 +53,7 @@ We may disclose your information if required to do so by law or in the good fait
 
 #### 4. Data Retention and Security
 
-*   **User Images:** We do **not** permanently store your original or generated images on our servers. Your images are processed **in-memory** within our Firebase Cloud Function environment solely to facilitate the generation request with Replicate and optimize the result before sending it back to you. The data exists on our server only for the duration needed to complete this single transaction.
+*   **User Images:** We do **not** permanently store your original or generated images on our servers. Your images are processed **in-memory** within our Firebase Cloud Function environment solely to facilitate the generation request with Replicate and optimize the result before sending it back to you. The data exists on our server only for the duration needed to complete this single transaction. **"Exception for Reported Content: If a user reports a generated image for violating our policies, that specific image may be stored securely for a limited time for review purposes."**
 *   **Security:** We take reasonable measures to protect your information. Communication with our servers and with Replicate's API is encrypted. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure.
 
 #### 5. Children's Privacy
