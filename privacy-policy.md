@@ -1,6 +1,6 @@
 ### Privacy Policy for Toonit
 
-**Effective Date:** [Date of Update]
+**Effective Date:** 3rd July 2025
 
 Thank you for using Toonit ("the App"), provided by Prox Labs. We are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use and share it, and your choices regarding your information.
 
